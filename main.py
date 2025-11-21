@@ -3,7 +3,7 @@
 # Bankomat - Automated Teller Machine(ATM)
 
 save_pasword = 1311
-balance = 16000
+balance = 10000
 password = int(input("Parolizni kiriting: "))
 menu = ["Balansni tekshirish", "Naqd pul olish", "SMS habar ulash", "Parolni ozgartirish"]
 
