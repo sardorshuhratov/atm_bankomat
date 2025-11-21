@@ -8,7 +8,7 @@ password = int(input("Parolizni kiriting: "))
 menu = ["Balansni tekshirish", "Naqd pul olish", "SMS habar ulash", "Parolni ozgartirish"]
 
 if password == save_pasword:
-    print("Xush kelibsiz")
+    # print("Xush kelibsiz")
     print(f"1-{menu[0]}")
     print(f"2-{menu[1]}")
     print(f"3-{menu[2]}")
